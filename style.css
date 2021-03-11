@@ -1,5 +1,29 @@
 .headings{
-font-size: 7em;
+font-size: 2em;
 padding: 10px;
 justify-content: center;
+box-shadow: 4px 4px 4px 6px greenyellow, 8px 3px 3px 13px blue;
 }
+.atkatsuki{
+    box-sizing: border-box;
+    font-size: 6rem;
+}
+.madara{
+    color: blueviolet;
+    background-color: darkseagreen;
+    width: 200px;
+    padding: 40px;
+    border 10px solid #c00;
+    box-sizing: border-box;
+}
+.test-box {
+    background: #9db6dd;
+    width: 200px;
+  }
+  .test-box-nosizing {
+    border: 10px solid #000;
+    padding: 40px;
+  }
+  .test-box-sizing {
+    box-sizing: border-box;
+  }
